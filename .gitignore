@@ -1,2 +1,5 @@
+.vscode/
 venv/*
 chromedriver_linux64.zip
+
+*.pyc
